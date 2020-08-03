@@ -16,3 +16,6 @@ I’m Ikram, a Principal Software Engineer & Python developer at Kayak, working 
 
 - 📧 mrikram1989@gmail.com
  
+---
+
+<img align="left" alt="akkefa Github Stats" src="https://github-readme-stats.vercel.app/api?username=akkefa&show_icons=true&hide_border=true" />
