@@ -20,10 +20,10 @@ I’m Ikram, a Principal Software Engineer & Python developer at Kayak, working 
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [First Urdu language model bert based by Urduhack team](https://akkefa.github.io/blog/posts/2020/08/urdu-language-model-bert-based-by-urduhack-team/)
 - [Speaker PyCon Gallery](https://akkefa.github.io/blog/posts/2018/04/pycon/)
 - [Python Performance Profiling](https://akkefa.github.io/blog/posts/2018/08/python-performance-profiling/)
 - [Parsing HTML with PYTHON](https://akkefa.github.io/blog/posts/2017/01/parsing-html-with-python/)
-- [Blog Post number 4](https://akkefa.github.io/blog/posts/2012/08/blog-post-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
