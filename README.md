@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m Ikram, a Principal Software Engineer & Python developer at Kayak, working as a Senior Data Scientist.
+Thanks for stopping by!
+
+I’m Ikram, a Senior Data Scientist & NLP Engineer at Kayak.
 
 **8 years of work experience** in the software development field, building projects for the web and IoT platforms, using different programming tools and languages like Python, PHP, JavaScript, Java, HTML & CSS.
 
