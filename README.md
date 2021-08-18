@@ -6,11 +6,12 @@ I’m Ikram, a Senior Data Scientist & NLP Engineer at Kayak.
 
 **8 years of work experience** in the software development field, building projects for the web and IoT platforms, using different programming tools and languages like Python, PHP, JavaScript, Java, HTML & CSS.
 
-- 🔭 I’m currently working on **Urduhack NLP library for Urdu** language.
+My open source contribution includes -
 
-- 👯 I’m looking to collaborate on Urdu NLP.
+- [**Haystack**](https://github.com/deepset-ai/haystack) (**Contributor**): Haystack is an end-to-end framework that enables you to build powerful and production-ready pipelines for different search use cases.
+- [**Urduhack**](https://github.com/urduhack/urduhack) (**Creator**): Urduhack is a NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible.
 
-- 💬 Ask me about any thing reletad to Python and Deep learning NLP models.
+
 
 - 📫 How to reach me: akkefa.com
 
