@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-I’m Ikram, a Senior Data Scientist & NLP Engineer at Kayak.
+I’m Ikram, a machine learning & NLP Engineer at Kayak.
 
 My open source contribution includes -
 
