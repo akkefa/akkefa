@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Thanks for stopping by!
-
-I’m Ikram, a machine learning & NLP Engineer at Kayak.
+I’m Ikram, a Machine Learning Engineer.
 
 My open source contribution includes -
 
