@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ikram, a Machine Learning Engineer.
+I’m Ikram, a Machine Learning Engineer. I am interested in Statistical Natural Language Processing, Machine Learning and Deep Learning.
 
 My open source contribution includes -
 
