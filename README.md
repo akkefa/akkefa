@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ikram, a Machine Learning Engineer. I am interested in Statistical Natural Language Processing, Machine Learning and Deep Learning.
+I’m Ikram, Passionate machine learning engineer with 5+ years of experience in predictive modeling. A solid foundation in statistics, linear algebra, calculus, and other analytical techniques. Project manager and team leader with extensive experience in system design and implementation. My main research interests are in Natural Language Processing.
 
 My open source contribution includes -
 
