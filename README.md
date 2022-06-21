@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Ikram
 
-I specialize in building ML engineering and data science teams from the ground up. My current passion is AI Ethics and MLOps. 
+I specialize in building ML engineering and data science teams from the ground up. My current passion is NLP and MLOps. 
 
 I approach my career by purposefully building domain knowledge in all the cross functional disciplines required to deliver successful Data Science projects. This includes Research, Data Engineering, Machine Learning Engineering, Management, as well as dabbling in Agile Program Management and Product Management within other roles. This allows me to lead cross-functional teams and know the pain points of bringing a model from ideation to production.
 
