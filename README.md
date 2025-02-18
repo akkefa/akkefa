@@ -1,15 +1,8 @@
 ### Hi there 👋 I’m Ikram
 
-I'm a Lead Data Scientist. I specialize in building ML engineering and data science teams from the ground up. My current passion is **NLP** and MLOps.
+Results-driven technical leader with 10 years of experience integrating research, engineering, and product development to create impactful applications. My background in applied ML, distributed systems engineering, and MLOps tooling has empowered me to build and mentor dynamic teams of Data Scientists, ML Engineers, and MLOps experts. I thrive on end-to-end challenges—from designing robust data pipelines and optimizing model serving to fine-tuning, evaluation, and implementing strong governance frameworks.
 
-I approach my career by purposefully building domain knowledge in all the cross functional disciplines required to
-deliver successful Data Science projects. This includes Research, Data Engineering, Machine Learning Engineering,
-Management, as well as dabbling in Agile Program Management and Product Management within other roles.
-This allows me to lead cross-functional teams and know the pain points of bringing a model from ideation to production.
-
-I approach people management with the mindset of a mentor and career coach rather than a boss.
-I get excited about building teams of great people, and I love seeing my team member's careers grow!
-
+I’m passionate about next-generation NLP and LLM applications, always seeking to push the envelope in generative AI.
 
 My open source contribution includes -
 
